@@ -13,7 +13,7 @@ Yes — it's heavily **vibe-coded with AI pair-programming tools** ✨. Real pas
 What you don't see in the commit log:
 
 - **My laptop is a ThinkPad L14 Gen 2** — honestly the worst possible laptop for Linux. Its Realtek RTL8821AE WiFi card is one of the most notoriously Linux-hostile chipsets ever shipped: constant WiFi drops, flaky Bluetooth, a touchscreen that half-works. On top of that: **sticky keyboard keys and a trackpad with a mind of its own.** I write code on a keyboard that eats keystrokes.
-- **AI tooling costs real money I don't quite have.** I used to build with Google Antigravity, but as Omadock grew popular its rate limits got too tight to work. I moved to a Freebuff Starter subscription — **₹499 to start, borrowed from my mom** 😅 — and it rises to **₹799/month** after, which I honestly can't keep affording on a student's nothing-budget.
+- **AI tooling costs real money I don't quite have.** I built Omadock on Google Antigravity through **Jio's free 18-month Gemini Pro offer** — a gift that made AI-assisted coding possible at all. But the promotional tier's rate limits are notoriously bad (there's a literal bug thread about Jio-tier quota limits on Google's own forums), and as Omadock grew popular I kept getting locked out mid-project. So I moved to a Freebuff Starter subscription — **₹499 to start, borrowed from my mom** 😅 — rising to **₹799/month**, which I honestly can't keep affording on a student's nothing-budget.
 - Money is always tight. That's just the truth.
 
 ## 💻 The dream: a proper machine
