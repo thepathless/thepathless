@@ -20,7 +20,11 @@ What you don't see in the commit log:
 
 I'm saving up for a **Dell XPS 13 (2026)** — the same XPS line DHH (Omarchy's creator) calls ["the year of the Linux laptop"](https://www.dell.com/en-us/blog/year-of-the-linux-laptop-omarchy-on-xps/). Modern Intel Wi-Fi, a keyboard that works, battery life that lasts through a ward shift.
 
-**Laptop fund:** `▓░░░░░░░░░░░░░░░░░░░` **$0 / $1,000**
+**Laptop fund:**
+
+<img src="https://raw.githubusercontent.com/thepathless/omadock/main/assets/laptop-fund.svg" alt="Laptop fund: $0 of $1,000" width="480" />
+
+Every supporter gets thanked on the [supporters wall](https://github.com/thepathless/omadock/blob/main/SPONSORS.md) 💝
 
 And the bigger dream, if I may say it out loud: to do work so useful to the Omarchy ecosystem that someday the [Omacom Foundation](https://omarchy.org) — which funds the open source Omarchy stands on — counts me among the people it supports. 🙏
 
