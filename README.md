@@ -1,4 +1,4 @@
-# Hi, I'm suva 👋 — and this is why I build Omadock
+# Hi, I'm thepathless 👋
 
 **I've been obsessed with computers and programming for as long as I can remember.** As a kid I broke every machine I could get my hands on, just to see how it worked. But life had a different first draft for me: I'm a medical student in India. I never got to pursue computers professionally — so I build at night, between classes and clinics.
 
@@ -30,7 +30,7 @@ And the bigger dream, if I may say it out loud: to do work so useful to the Omar
 
 ## ☕ If you'd like to help
 
-If Omadock makes your desktop a nicer place — or if this story just got you — **[sponsoring me on GitHub](https://github.com/sponsors/thepathless)** (monthly or one-time) would genuinely change things for me. What different amounts buy: ☕ **$5** = a chai and a smile · 🧃 **$15** = **a month of my AI coding tokens** — you literally keep the AI lights on · 🏢 **$50** = your name on Omadock. Every donation goes to exactly two things: **AI coding tokens** that keep Omadock possible, and **the laptop fund** — and every cent stacks toward both.
+If Omadock makes your desktop a nicer place — or if this story just got you — **[sponsoring me on GitHub](https://github.com/sponsors/thepathless)** (monthly or one-time) would genuinely change things for me. Every donation goes to exactly two things: **AI coding tokens** that keep Omadock possible, and **the laptop fund** — and every cent stacks toward both.
 
 **To everyone who has donated or will: really, truly, thank you.** You're helping a med student keep building. ❤️
 
