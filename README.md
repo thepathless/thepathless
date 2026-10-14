@@ -1,37 +1,28 @@
-# Hi, I'm thepathless 👋
+# Hi, I'm suva (@thepathless) 👋
 
-**I've been obsessed with computers and programming for as long as I can remember.** As a kid I broke every machine I could get my hands on, just to see how it worked. But life had a different first draft for me: I'm a medical student in India. I never got to pursue computers professionally — so I build at night, between classes and clinics.
+Medical student by day, systems programmer by night. Based in India.
 
-## 🖥️ Omadock
+I build high-performance desktop utilities, docks, and shell components for **[Omarchy Linux](https://omarchy.org)** (Arch Linux + Hyprland + Quickshell), having been an active user and builder since Omarchy was a collection of dot files. Every project I maintain is backed by deterministic automated test suites, compositor-level regression probes, and strict zero-idle-CPU invariants.
 
-[**Omadock**](https://github.com/thepathless/omadock) is a fluid, zero-CPU application dock for [Omarchy](https://omarchy.org) Linux — wave magnification, live window preview tiles, app groups, multi-monitor docks. It's now on its way through the Omarchy plugin marketplace, and every release I ship is verified down to the byte: clean logs, zero idle CPU, root causes proven in compositor source before I claim a fix.
+---
 
-Yes — it's heavily **vibe-coded with AI pair-programming tools** ✨. Real passion, real help from AI, real engineering discipline on top. Omarchy itself is built for that agentic future; I'm living it.
+### 🖥️ Featured Projects
 
-## 💔 The reality behind the commits
+- **[omadock](https://github.com/thepathless/omadock)** — Fluid, zero-CPU application dock for Omarchy Linux (Ranked #8 in Desktop across 490 plugins, top 1% of all 5,416 plugins on the official marketplace). Features wave magnification, live window previews, app grouping, nameplates, and multi-monitor support.
+- **[omalogo](https://github.com/thepathless/omalogo)** — Application launcher and distribution indicator plugin with Niri-style workspace scrolling for Omarchy status bars.
+- **[omacava](https://github.com/thepathless/omacava)** — Audio visualizer bar widget with media controls for Omarchy.
+- **[omafetch](https://github.com/thepathless/omafetch)** — High-performance terminal system information fetch utility.
 
-What you don't see in the commit log:
+---
 
-- **My laptop is a ThinkPad L14 Gen 2** — honestly the worst possible laptop for Linux. Its Realtek RTL8821AE WiFi card is one of the most notoriously Linux-hostile chipsets ever shipped: constant WiFi drops, flaky Bluetooth, a touchscreen that half-works. On top of that: **sticky keyboard keys and a trackpad with a mind of its own.** I write code on a keyboard that eats keystrokes.
-- **AI tooling costs real money I don't quite have.** I built Omadock on Google Antigravity through **Jio's free 18-month Gemini Pro offer** — a gift that made AI-assisted coding possible at all. But the promotional tier's rate limits are notoriously bad (there's a literal bug thread about Jio-tier quota limits on Google's own forums), and as Omadock grew popular I kept getting locked out mid-project. So I moved to a Freebuff Starter subscription — **₹499 to start, borrowed from my mom** 😅 — rising to **₹799/month**, which I honestly can't keep affording on a student's nothing-budget.
-- Money is always tight. That's just the truth.
+### 🏆 Recognition & Engineering Standards
 
-## 💻 The dream: a proper machine
+- **[XERJ Corpus Hub Reference Implementation](https://github.com/xerj-org/xerj)**: OmaDock's atomic asynchronous configuration gate and signal-trap architecture (`CappedFileView.qml` / `test_capped_gate.py`) was independently selected for the global XERJ Corpus Hub as an open-source reference solution for AI coding agents.
+- **Zero Idle CPU**: No background polling loops; strictly 0.00% idle load verified via live `/proc` process jiffies.
+- **Sandboxed Wayland Verification**: 239 Node.js unit tests, 116 Python checks, and 9 live Quickshell integration suites running on headless compositor outputs.
 
-I'm saving up for a **Dell XPS 13 (2026)** — the same XPS line DHH (Omarchy's creator) calls ["the year of the Linux laptop"](https://www.dell.com/en-us/blog/year-of-the-linux-laptop-omarchy-on-xps/). Modern Intel Wi-Fi, a keyboard that works, battery life that lasts through a ward shift.
+---
 
-**Laptop fund:**
+### ☕ Supporting My Work
 
-<img src="https://raw.githubusercontent.com/thepathless/omadock/main/assets/laptop-fund.svg" alt="Laptop fund: $0 of $1,000" width="480" />
-
-Every supporter gets thanked on the [supporters wall](https://github.com/thepathless/omadock/blob/main/SPONSORS.md) 💝
-
-And the bigger dream, if I may say it out loud: to do work so useful to the Omarchy ecosystem that someday the [Omacom Foundation](https://omarchy.org) — which funds the open source Omarchy stands on — counts me among the people it supports. 🙏
-
-## ☕ If you'd like to help
-
-If Omadock makes your desktop a nicer place — or if this story just got you — **[sponsoring me on GitHub](https://github.com/sponsors/thepathless)** (monthly or one-time) would genuinely change things for me. Every donation goes to exactly two things: **AI coding tokens** that keep Omadock possible, and **the laptop fund** — and every cent stacks toward both.
-
-**To everyone who has donated or will: really, truly, thank you.** You're helping a med student keep building. ❤️
-
-— suva ([@thepathless](https://github.com/thepathless))
+If my tools make your desktop faster and more enjoyable, supporting development on **[GitHub Sponsors](https://github.com/sponsors/thepathless)** or pledging feature bounties on **[Polar.sh](https://polar.sh/thepathless)** helps fund dedicated Linux testing hardware and continuous open-source maintenance.
